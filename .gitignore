@@ -1,0 +1,6 @@
+__pycache__
+.benchmarks
+.pytest_cache
+.vscode
+venv
+benchmark.csv
