@@ -1,6 +1,6 @@
 # Tree Search Benchmark (Simple)
 
-This project compares two tree search methods: depth-first (DFS) and breadth-first (BFS).
+This module compares two tree search methods: depth-first (DFS) and breadth-first (BFS).
 
 ## Setup
 

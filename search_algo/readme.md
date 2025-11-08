@@ -1,6 +1,6 @@
 # Search Algorithm Benchmark
 
-This project benchmarks different search algorithms for finding strings in text files, comparing various methods including linear search, memory-mapped files, grep, awk, and cached lookups.
+This module benchmarks different search algorithms for finding strings in text files, comparing various methods including linear search, memory-mapped files, grep, awk, and cached lookups.
 
 ## Overview
 
